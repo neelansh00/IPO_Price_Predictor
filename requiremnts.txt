@@ -1,0 +1,12 @@
+numpy
+pandas 
+matplotlib
+seaborn 
+scikit-learn
+xgboost
+selenium
+beautifulsoup4
+webdriver-manager
+openpyxl
+seaborn
+yfinance
